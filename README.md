@@ -92,10 +92,9 @@
 
   
 <h3 align="left">Статистика:</h3>
-  <p align="center">
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybikn)](https://git.io/streak-stats)
+
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=kybikn&count_private=true&show_icons=true&include_all_commits=true)
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kybikn&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats) 
- 
-  </p>
