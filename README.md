@@ -7,8 +7,11 @@
 
 <h3 align="left">Контакты:</h3>
   <p align="left">
+     <a href="kybik.n@gmail.com" target="_blank" rel="noreferrer">
+      <img src="https://cdn.simpleicons.org/google" alt="Google" width="40" height="40"/>
+    </a>
     <a href="https://t.me/kybikn" target="_blank" rel="noreferrer">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" width="40" height="40"/>
+      <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="40" height="40"/>
     </a>
     <a href="https://github.com/kybikn">
       <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40">
@@ -16,91 +19,94 @@
     <a href="https://discord.com/channels/@me" target="blank" rel="noreferrer">
       <img src="https://cdn.simpleicons.org/discord" alt="Discord" width="40" height="40">
     </a>
-    <a href="https://www.codewars.com/users/zenby" target="blank" rel="noreferrer">
-      <img src="https://www.codewars.com/users/kybikn" alt="codewars" width="40" height="40"/>
+    <a href="https://www.codewars.com/users/kybikn" target="blank" rel="noreferrer">
+      <img src="https://cdn.simpleicons.org/codewars" alt="Codewars" width="40" height="40"/>
     </a>
   </p>
 
 <h3 align="left">Навыки:</h3>
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <!-- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/css" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/css" target="_blank" rel="noreferrer">
+    <!-- <a href="https://developer.mozilla.org/en-US/docs/Glossary/css" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="40" height="40"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
     </a>
     <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="Webpack" width="40" height="40"/>
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="36" height="36"/>
     </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40"/>
     </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <!-- <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"
       width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36"/>
     </a>
-    <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <a href="https://Nginx.org/" target="_blank" rel="noreferrer">
       <img src="https://www.svgrepo.com/show/354115/nginx.svg" alt="Nginx" width="36" height="36"/>
     </a>
     <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
       <img src="https://bestofjs.org/logos/pm2.dark.svg" alt="Pm2" width="36" height="36"/>
     </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" alt="Eslint" width="40" height="40"/>
     </a>
     <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="38" height="38"/>
     </a>
 </p>
 
 <h3 align="left">Изучаю сейчас:</h3>
   <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     </a>
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" width="40" height="40"/>
     </a>
   </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybikn)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kybikn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <div align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybikn)](https://git.io/streak-stats)</div>
+  
+  <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kybikn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</div>
+
   
 
   <!-- <br />
@@ -144,6 +150,11 @@
 <a href="https://redux.js.org" target="_blank">
    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" />
          <a href="https://discord.com/channels/@me">
+             <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    </a>
+
+        <img src="https://eslint.org/favicon.ico" alt="eslint" width="40" height="40"/>
          💻
 
          <h3 align="left">Технологии, в которых я имею опыт:</h3>
