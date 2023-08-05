@@ -84,7 +84,7 @@
       <img src="https://www.svgrepo.com/show/354115/nginx.svg" alt="Nginx" width="36" height="36"/>
     </a>
     <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
-      <img src="https://bestofjs.org/logos/pm2.dark.svg" alt="Pm2" width="36" height="36" color="black"/>
+      <img src="https://bestofjs.org/logos/pm2.svg" alt="Pm2" width="36" height="36" fill="#000000" fill="black" background="red"/>
     </a>
     <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
       <img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="Pm2" width="36" height="36" color="black"/>
@@ -113,6 +113,7 @@
 
 
   
+ [align="center" ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybikn)](https://git.io/streak-stats)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybikn)](https://git.io/streak-stats)
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kybikn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
