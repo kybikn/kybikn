@@ -8,7 +8,7 @@
 
 <h3 align="left">Контакты:</h3>
   <p align="left">
-      <a href="https://kybik.n@gmail.com" target="_blank" rel="noreferrer">
+    <a href="https://kybik.n@gmail.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/google/google-tile.svg" alt="Google" width="38" height="38"/>
     </a>
     <a href="https://t.me/kybikn" target="_blank" rel="noreferrer">
@@ -91,6 +91,11 @@
 
 
   
+<h3 align="left">Статистика:</h3>
+  <p align="center">
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybikn)](https://git.io/streak-stats)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kybikn&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kybikn&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+  </p>
