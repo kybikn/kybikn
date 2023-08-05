@@ -31,9 +31,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
     </a>
-    <!-- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="40" height="40"/>
-    </a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/css" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     </a>
@@ -94,6 +91,6 @@
 
 
   
- [               ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybikn)](https://git.io/streak-stats)
+ [![GitHub Streak]             (https://github-readme-streak-stats.herokuapp.com/?user=kybikn)](https://git.io/streak-stats)
   
- [                         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kybikn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs]                               (https://github-readme-stats.vercel.app/api/top-langs/?username=kybikn&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
