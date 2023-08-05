@@ -37,15 +37,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/css" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     </a>
-    <!-- <a href="https://developer.mozilla.org/en-US/docs/Glossary/css" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="40" height="40"/>
-    </a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="40" height="40"/>
     </a>
-    <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="40" height="40"/>
-    </a> -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
     </a>
@@ -58,24 +52,17 @@
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
     </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40"/>
-    </a>
-    <!-- <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"
-      width="40" height="40"/>
-    </a> -->
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-    </a>
-    <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-    </a> -->
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
@@ -86,17 +73,11 @@
     <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
       <img src="https://bestofjs.org/logos/pm2.svg" alt="Pm2" width="36" height="36" fill="#000000" fill="black" background="red"/>
     </a>
-    <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
-      <img src="https://pm2.keymetrics.io/assets/pm2-logo-1.png" alt="Pm2" width="36" height="36" color="black"/>
-    </a>
-    <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pm2io/pm2io-icon.svg" alt="Pm2" width="36" height="36" color="black"/>
+    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="Eslint" width="40" height="40"/>
     </a>
     <a href="https://jestjs.io" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="38" height="38"/>
-    </a>
-    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="Eslint" width="40" height="40"/>
     </a>
 </p>
 
@@ -113,7 +94,6 @@
 
 
   
- [align="center" ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybikn)](https://git.io/streak-stats)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybikn)](https://git.io/streak-stats)
+ [               ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybikn)](https://git.io/streak-stats)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kybikn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [                         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kybikn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
