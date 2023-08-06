@@ -109,4 +109,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kybikn/kybikn/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/kybikn/snk)_
+_generated with [kybikn/snk](https://github.com/kybikn/snk)_
